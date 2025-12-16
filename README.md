@@ -1,14 +1,16 @@
-# Aspiring Machine Learning Specialist
-Hello there! I am Jairo, a second-semester Systems and Computer Science student in Peru, focused on specializing in Machine Learning (ML).
+# 🤖 ML Enthusiast | Systems & CS Student 🇵🇪
+Hello there! I am Jairo, a second-semester student in Systems and Computer Science (Peru) with a mission to dive deep into **Machine Learning (ML)**. Building the foundation for future innovation.
 
-## About me
-**Technical Foundation:** Solid in Programming Logic, Algorithms, and ICT.
+## What I Bring to the Table
 
-**Current Learning:** Actively mastering Python and fundamental ML Concepts.
+● **Mindset:** Highly responsible, proactive, and collaborative—always ready to learn new tech. 🤝
 
-**Work Ethic:** Responsible, proactive, and eager to learn.
+● **Coding Base:** Proficient in Programming Logic, Algorithms, and ICT. 🧠
 
-## Credentials
-**Academic:** Second Semester, Systems and Computer Science.
+● **Current Grind:** Dedicated practice in Python 🐍 and tackling core ML concepts right now. 📊
 
-**Certifications:** IB Diploma & Cambridge English First Certificate.
+## The Background Check
+
+● **Academics:** Systems & Computer Science (2nd semester).
+
+● **High-Level Skills:** Recognized for strong academic discipline (IB Diploma) and professional communication (Cambridge English First Certificate). 🗣️
