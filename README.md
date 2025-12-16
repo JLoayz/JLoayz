@@ -1,5 +1,5 @@
 # ML Enthusiast | Systems & CS Student 🇵🇪
-Hello there! I am [Jairo](www.linkedin.com/in/jairo-loayza), a second-semester student in Systems and Computer Science (Peru) with a mission to dive deep into **Machine Learning (ML)**. Building the foundation for future innovation.
+Hello there! I am [Jairo](https://www.linkedin.com/in/jairo-loayza), a second-semester student in Systems and Computer Science (Peru) with a mission to dive deep into **Machine Learning (ML)**. Building the foundation for future innovation.
 
 ## What I Bring to the Table
 
