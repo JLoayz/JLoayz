@@ -1,5 +1,5 @@
 # ML Enthusiast | Systems & CS Student 🇵🇪
-Hello there! I am [Jairo](https://www.linkedin.com/in/jairo-loayza), a second-semester student in Systems and Computer Science (Peru) with a mission to dive deep into **Machine Learning (ML)**. Building the foundation for future innovation.
+Hello there! I am [Jairo](https://www.linkedin.com/in/jairo-loayza), a Systems and Computer Science student (Peru) with a mission to dive deep into **Machine Learning (ML)**. Building the foundation for future innovation.
 
 ## What I Bring to the Table
 
@@ -11,6 +11,6 @@ Hello there! I am [Jairo](https://www.linkedin.com/in/jairo-loayza), a second-se
 
 ## The Background Check
 
-● **Academics:** Systems & Computer Science (2nd semester).
+● **Academics:** Systems & Computer Science (3rd semester).
 
 ● **High-Level Skills:** Recognized for strong academic discipline (IB Diploma) and professional communication (Cambridge English First Certificate). 
