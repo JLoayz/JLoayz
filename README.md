@@ -7,7 +7,7 @@ Hello there! I am [Jairo](https://www.linkedin.com/in/jairo-loayza), a Systems a
 
 ● **Coding Base:** Proficient in Programming Logic, Algorithms, and ICT. 
 
-● **Current Grind:** Dedicated practice in Python and tackling core ML concepts right now. 
+● **Current Grind:** Dedicated practice in Python, Java and tackling core ML concepts right now. 
 
 ## The Background Check
 
